@@ -1,1 +1,1 @@
-test
+Windows GDI no rensyu-
